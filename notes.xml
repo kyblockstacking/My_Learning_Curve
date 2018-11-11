@@ -22,5 +22,8 @@ o	Maintains two links or pointer
 o	Prev | Data | Next
 
 Cutting Code Corners (testing)
-- 
-
+- test all cases
+o example: (int < 6) // test 0, 5, 6, 7, 10
+- proof with byte size
+- know where the safe point is
+- make failing cheap
