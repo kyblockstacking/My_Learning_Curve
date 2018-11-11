@@ -1,4 +1,4 @@
-Code Camp @ USC (Nov 11, 2018)
+SoCal Code Camp @ USC (Nov 11, 2018)
 
 Design + code promo marketing email
 Sanni Youboty
@@ -27,3 +27,10 @@ o example: (int < 6) // test 0, 5, 6, 7, 10
 - proof with byte size
 - know where the safe point is
 - make failing cheap
+
+Functional Programming 
+Andre van Meulebrouck
+- functional = no mutation
+o same input, same output
+- keyword: monoids
+- higher order: pass or return functions as values
