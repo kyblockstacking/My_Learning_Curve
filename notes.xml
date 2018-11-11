@@ -1,0 +1,26 @@
+Code Camp @ USC (Nov 11, 2018)
+
+Design + code promo marketing email
+Sanni Youboty
+Linkedin.com/in/syouboty
+-	Target audience
+-	Goal of email
+-	Ideal outcome
+-	Don’t be afraid to use templates
+-	Familiarize with products/industry
+-	Use <table> element
+-	Email, should be inlined. Css-inliner
+
+Binary tree, data structure
+Kevin-liu-355a6b49
+-	Singly linked list: 
+o	one ref per node, 
+o	refers to the next node
+o	can only be navigated forward
+-	Doubly linked list:
+o	Maintains two links or pointer
+o	Prev | Data | Next
+
+Cutting Code Corners (testing)
+- 
+
