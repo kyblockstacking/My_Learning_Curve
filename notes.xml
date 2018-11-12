@@ -14,16 +14,16 @@ Linkedin.com/in/syouboty
 Binary tree, data structure
 Kevin-liu-355a6b49
 -	Singly linked list: 
-o	one ref per node, 
-o	refers to the next node
-o	can only be navigated forward
+    o	one ref per node, 
+    o	refers to the next node
+    o	can only be navigated forward
 -	Doubly linked list:
-o	Maintains two links or pointer
-o	Prev | Data | Next
+    o	Maintains two links or pointer
+    o	Prev | Data | Next
 
 Cutting Code Corners (testing)
 - test all cases
-o example: (int < 6) // test 0, 5, 6, 7, 10
+    o example: (int < 6) // test 0, 5, 6, 7, 10
 - proof with byte size
 - know where the safe point is
 - make failing cheap
@@ -31,6 +31,13 @@ o example: (int < 6) // test 0, 5, 6, 7, 10
 Functional Programming 
 Andre van Meulebrouck
 - functional = no mutation
-o same input, same output
+    o same input, same output
 - keyword: monoids
 - higher order: pass or return functions as values
+
+Arduino from a software pov
+Mitov
+- microcontroller
+
+Visuino
+- visual data representation
