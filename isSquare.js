@@ -2,5 +2,5 @@
 // A square number is n*n = x
 
 var isSquare = function(n){
-    return Math.sqrt(n, 0.5) % 1 === 0
+    return Math.sqrt(n, 0.5) % 1 === 0;
   }
