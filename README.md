@@ -1,4 +1,4 @@
-# my_learning_curve
+My Learning Curve
 
 collection of my notes
 
